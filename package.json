@@ -1,14 +1,25 @@
 {
-  "name": "static-site",
+  "name": "Brians-README-Generator",
   "version": "1.0.0",
-  "description": "Professional README Generator",
+  "description": "Brians README.md Generator Application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Brian Lockhart",
-  "license": "ISC",
+  "repository": {
+    "type": "bslockhart",
+    "url": "git+https://github.com/bslockhart/Brians-README-Generator.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "bslockhart",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/bslockhart/Brians-README-Generator/issues"
+  },
+  "homepage": "https://github.com/bslockhart/Brians-README-Generator#readme",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^8.2.2"
   }
 }
