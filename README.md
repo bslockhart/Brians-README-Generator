@@ -58,7 +58,7 @@ The task is to create a command-line application that dynamically generates a pr
 5. Answer all the prompts and once completed, your personal README.md file will be created.
 
 ### Tests
-The command line to run a test on this application is: node index.js
+* The command line to run a test on this application is: node index.js
 
 ### Deliverables: 
 * A sample README generated using the application must be submitted. 
