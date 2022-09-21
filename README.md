@@ -11,6 +11,7 @@ The task is to create a command-line application that dynamically generates a pr
 * [User Story](#User-Story)
 * [Acceptance Criteria](#Acceptance-Criteria)
 * [Instructions](#Instructions)
+* [Tests](#Tests)
 * [Deliverables](#Deliverables)
 * [Walkthrough Video](#Walkthrough-Video)
 * [Technical Acceptance Criteria](#Technical-Acceptance-Criteria)
@@ -55,6 +56,9 @@ The task is to create a command-line application that dynamically generates a pr
 3. Make sure you are in the main project folder using the 'cd' command.
 4. Then type in 'node index.js' or 'node index' to execute the application and load up the chain of prompts (questions).
 5. Answer all the prompts and once completed, your personal README.md file will be created.
+
+### Tests
+The command line to run a test on this application is: node index.js
 
 ### Deliverables: 
 * A sample README generated using the application must be submitted. 
