@@ -82,7 +82,7 @@ The task is to create a command-line application that dynamically generates a pr
 * Repository contains a high-quality README with description and a link to walkthrough video.
 
 ### Submission
-* Date Submitted: September 28, 2022
+* Date Submitted: September 27, 2022
 * Walk Through Video demonstrating the functionality of application: https://drive.google.com/file/d/1mRhxAGBrY1EJvSb9mhCyJZrhyBE2mM3i/view
 * Sample README.md file for project repository generated using application: https://github.com/bslockhart/Brians-README-Generator/blob/main/Sample%20README/Sample_README.md
 * The URL of the GitHub repository that contains your code: https://github.com/bslockhart/Brians-README-Generator
