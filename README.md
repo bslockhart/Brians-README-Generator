@@ -24,8 +24,8 @@ The task is to create a command-line application that dynamically generates a pr
 - JavaScript
 
 ### Links
-Professional README Guide: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
-Fullstack Blog Video Submission Guide: https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide
+* Professional README Guide: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+* Fullstack Blog Video Submission Guide: https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide
 
 ### User Story
 * AS A developer
